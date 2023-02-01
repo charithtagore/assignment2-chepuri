@@ -15,3 +15,14 @@ i like it because the game includes **physical science** concepts like **parabol
 * Rangers
 
 Lets go to Aboutme [click here](https://github.com/charithtagore/assignment2-chepuri/blob/main/AboutMe.md)
+
+----------------------
+
+List of various countries in the below table.
+
+| Country    | Reason for Visit       | No of days  |
+|---------   | ----------------       | ----------  |
+| India      | To mmet my friends     | 24 days     |
+| US         | For masters            | 27 days     |
+| UK         | London Bridge          | 1 days      |
+| Dubai      | Bhruj Khalifa          | 11 days     |
