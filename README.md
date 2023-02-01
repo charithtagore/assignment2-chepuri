@@ -13,3 +13,5 @@ i like it because the game includes **physical science** concepts like **parabol
 
 * Eagles
 * Rangers
+
+Lets go to Aboutme [click here](https://github.com/charithtagore/assignment2-chepuri/blob/main/AboutMe.md)
