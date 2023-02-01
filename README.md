@@ -26,3 +26,10 @@ List of various countries in the below table.
 | US         | For masters            | 27 days     |
 | UK         | London Bridge          | 1 days      |
 | Dubai      | Bhruj Khalifa          | 11 days     |
+
+# Pithy Quotes
+
+>"I have only made this letter longer because I have not had the time to make it shorter." - ***Blaise Pascal, The Provincial Letters***
+
+>"Mathematicians deal with large numbers sometimes, but never in their income." - ***Isaac Asimov, Prelude to Foundation***
+
