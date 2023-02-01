@@ -33,3 +33,17 @@ List of various countries in the below table.
 
 >"Mathematicians deal with large numbers sometimes, but never in their income." - ***Isaac Asimov, Prelude to Foundation***
 
+-----------------------------
+#Code Fencing 
+
+Getting First and Last Items in Array (and splitting all the rest)? [click here](https://stackoverflow.com/questions/651563/getting-the-last-element-of-a-split-string-array)
+
+```
+const arr = ["This", "Little", "Piggy"];
+const first = arr.pop();
+console.log(first);
+// "Piggy"
+
+```
+
+Snippet Source Code[click here](https://css-tricks.com/snippets/javascript/getting-first-and-last-items-in-array-and-splitting-all-the-rest/) 
